@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/Users/alexBit/Documents/Java/.metadata/.plugins/org.eclipse.jdt.core
+2687169391.index
+958636757.index
+3493857248.index
+1311019587.index
